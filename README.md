@@ -105,10 +105,6 @@ Advait-vansh-Sharma-/
 **Vansh Sharma**  
 Club Member
 
-## 📅 Last Updated
-
-2026-04-05 12:36:54
-
 ---
 
 **Note:** This repository is maintained as part of club activities. Regular updates and new assignments will be added as they are received.
